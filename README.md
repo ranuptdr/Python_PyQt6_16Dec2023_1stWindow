@@ -1,0 +1,2 @@
+# Python_PyQt6_16Dec2023_1stWindow
+Python_PyQt6_16Dec2023_1stWindow
